@@ -1,0 +1,17 @@
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\bin\Debug\Pet Shop Management.exe.config
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\bin\Debug\Pet Shop Management.exe
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\bin\Debug\Pet Shop Management.pdb
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet Shop Management.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet Shop Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet_Shop_Management.Customers.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet_Shop_Management.Homes.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet_Shop_Management.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet Shop Management.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet Shop Management.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet Shop Management.exe
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet Shop Management.pdb
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet_Shop_Management.Employees.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet_Shop_Management.Category.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet_Shop_Management.Products.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet_Shop_Management.Bill.resources
+C:\Users\ACER\OneDrive\Tài liệu\CT310H\Pet Shop Management\Pet Shop Management\obj\Debug\Pet_Shop_Management.Login.resources
